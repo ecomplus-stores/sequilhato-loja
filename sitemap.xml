@@ -170,13 +170,13 @@
     </url>
   
     <url>
-      <loc>https://sequilhato.netlify.app/pages/faq</loc>
+      <loc>https://sequilhato.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://sequilhato.netlify.app/pages/pagamentos</loc>
+      <loc>https://sequilhato.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -224,15 +224,15 @@
     </url>
   
     <url>
-      <loc>https://sequilhato.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://sequilhato.netlify.app/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sequilhato.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>

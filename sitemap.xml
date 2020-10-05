@@ -110,6 +110,30 @@
     </url>
   
     <url>
+      <loc>https://sequilhato.netlify.app/sequilhato-queijo-100g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://sequilhato.netlify.app/sequilhato-queijo-400g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://sequilhato.netlify.app/sequilhato-queijo-180g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://sequilhato.netlify.app/sequilhato-queijo-40g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://sequilhato.netlify.app/sequilhos-doce</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -176,18 +200,6 @@
     </url>
   
     <url>
-      <loc>https://sequilhato.netlify.app/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://sequilhato.netlify.app/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://sequilhato.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -195,12 +207,6 @@
   
     <url>
       <loc>https://sequilhato.netlify.app/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://sequilhato.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

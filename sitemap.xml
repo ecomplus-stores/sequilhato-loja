@@ -242,13 +242,13 @@
     </url>
   
     <url>
-      <loc>https://sequilhato.netlify.app/pages/sobre-nos</loc>
+      <loc>https://sequilhato.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://sequilhato.netlify.app/pages/trocas</loc>
+      <loc>https://sequilhato.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

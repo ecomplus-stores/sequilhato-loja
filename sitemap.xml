@@ -290,13 +290,13 @@
     </url>
   
     <url>
-      <loc>https://sequilhato.netlify.app/pages/entrega</loc>
+      <loc>https://sequilhato.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://sequilhato.netlify.app/pages/privacidade</loc>
+      <loc>https://sequilhato.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

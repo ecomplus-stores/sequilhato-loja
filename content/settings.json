@@ -16,8 +16,8 @@
   "favicon": "/img/uploads/favicon-sequilhato.png",
   "country_code": "BR",
   "secondary_color": "#802e34",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/iconemobile.png",
   "store_id": 1164,
   "description": "Sequilhos finos com ingredientes selecionados e sabor único!",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/iconemobile.png"
 }

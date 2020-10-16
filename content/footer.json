@@ -14,6 +14,14 @@
       {
         "text": "Contato",
         "url": "https://www.sequilhato.com.br/fale-conosco/"
+      },
+      {
+        "url": "/pages/entrega",
+        "text": "Condições de Entrega"
+      },
+      {
+        "url": "/pages/privacidade",
+        "text": "Política de privacidade"
       }
     ]
   },

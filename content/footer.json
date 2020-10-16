@@ -8,12 +8,12 @@
     "title": "Páginas",
     "list": [
       {
-        "text": "Sobre Nós",
-        "url": "https://www.sequilhato.com.br/sobre/"
-      },
-      {
         "text": "Contato",
         "url": "https://www.sequilhato.com.br/fale-conosco/"
+      },
+      {
+        "text": "Sobre Nós",
+        "url": "https://www.sequilhato.com.br/sobre/"
       },
       {
         "url": "/pages/entrega",
@@ -28,7 +28,8 @@
         "text": "Trocas e devoluções"
       },
       {
-        "text": "Atacado (Revenda)"
+        "text": "Atacado (Revenda)",
+        "url": "https://forms.gle/5ic3iRGbVjeR3iax6"
       }
     ]
   },

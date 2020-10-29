@@ -224,18 +224,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequillhato.com.br/voce-vai-amar-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequillhato.com.br/granel</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequillhato.com.br/sequilhos-doce</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -326,6 +314,18 @@
     </url>
   
     <url>
+      <loc>https://loja.sequillhato.com.br/voce-vai-amar-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequillhato.com.br/granel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequillhato.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -368,6 +368,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequillhato.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequillhato.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -375,12 +381,6 @@
   
     <url>
       <loc>https://loja.sequillhato.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequillhato.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>

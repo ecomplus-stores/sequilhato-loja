@@ -326,6 +326,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequillhato.com.br/kits-de-sequilhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequillhato.com.br/voce-vai-amar-</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>

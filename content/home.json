@@ -29,22 +29,22 @@
       "title": "Nossos Queridinhos 😋 "
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5f7dcc30b2161709fa3c0b53"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/novo_sabor_especial.png",
-          "link": "https://sequilhato-loja.netlify.app/sequilhos-romeu-e-julieta"
+          "link": "https://loja.sequilhato.com.br/sequilhos-romeu-e-julieta"
         },
         {
           "img": "/img/uploads/nossa_historia.png",
           "link": "https://www.sequilhato.com.br/sobre/"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5f7dcc30b2161709fa3c0b53"
     },
     {
       "type": "custom-html",

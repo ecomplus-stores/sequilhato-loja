@@ -62,7 +62,8 @@
       "src": "/img/uploads/selo-pagseguro.png"
     },
     {
-      "src": "/img/uploads/selo-clique.png"
+      "src": "/img/uploads/selo-clique.png",
+      "link": "https://cliquewebmarketing.com.br/"
     }
   ],
   "payment_methods": {

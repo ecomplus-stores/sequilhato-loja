@@ -27,7 +27,7 @@
     },
     {
       "type": "custom-html",
-      "html": "\n<h1 style=\"text-align: center;\n    color: #802e34; font-size: 16px;\">Conheça a história dos melhores Sequilhos caseiros!</h1>\n"
+      "html": "\n<h1 style=\"text-align: center;\n    color: #802e34; font-size: 20px;\">Conheça a história dos melhores Sequilhos caseiros!</h1>\n"
     },
     {
       "type": "banners-grid",

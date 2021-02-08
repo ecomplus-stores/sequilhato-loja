@@ -26,6 +26,10 @@
       "collection_id": "5f7dcc30b2161709fa3c0b53"
     },
     {
+      "type": "custom-html",
+      "html": "<h1 style=\"text-align: center;\n    color: #aaaa;\">Conheça a história dos melhores Sequilhos caseiros!</h1>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {

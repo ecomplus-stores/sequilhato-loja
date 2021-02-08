@@ -29,12 +29,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/novo_sabor_especial.png",
-          "link": "https://loja.sequilhato.com.br/sequilhos-pastel-queijo-com-goiaba"
-        },
-        {
           "img": "/img/uploads/nossa_historia.png",
           "link": "https://www.sequilhato.com.br/sobre/"
+        },
+        {
+          "img": "/img/uploads/novo_sabor_especial.png",
+          "link": "https://loja.sequilhato.com.br/sequilhos-pastel-queijo-com-goiaba"
         }
       ]
     },

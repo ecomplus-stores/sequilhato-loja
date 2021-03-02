@@ -422,6 +422,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequillhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequillhato.com.br/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>

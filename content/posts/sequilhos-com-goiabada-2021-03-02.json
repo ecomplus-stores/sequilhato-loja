@@ -8,6 +8,10 @@
   "meta_description": "A receita de Sequilhos com Goiabada é muito fácil de fazer. Confira aqui o passo a passo e saboreie essa delícia de sabor! ",
   "sections": [
     {
+      "type": "custom-html",
+      "html": "<br>\n<br>\n<h1>Receita de Sequilhos com Goiabada</h1>\n<br>\n<br>\n"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/receita-sequilhos-com-goiabada.jpg"
     },

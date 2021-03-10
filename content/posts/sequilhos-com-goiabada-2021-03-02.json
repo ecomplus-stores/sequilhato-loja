@@ -8,8 +8,16 @@
   "meta_description": "A receita de Sequilhos com Goiabada é muito fácil de fazer. Confira aqui o passo a passo e saboreie essa delícia de sabor! ",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/receita-sequilhos-com-goiabada.jpg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-03-10T00:11:02.065Z",
+          "end": "",
+          "img": "/img/uploads/receita-sequilhos-com-goiabada.jpg",
+          "link": "https://loja.sequilhato.com.br/sequilhos-pastel-queijo-com-goiaba"
+        }
+      ]
     },
     {
       "type": "breadcrumbs",
@@ -31,18 +39,6 @@
       "page": 1,
       "collection_id": "603e4e536d50911b6051b05a:collections:Com Goiabada:/com-goiabada",
       "title": "Já preparamos para você! 😋"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-03-10T00:11:02.065Z",
-          "end": "",
-          "img": "/img/uploads/receita-sequilhos-com-goiabada.jpg",
-          "link": "https://loja.sequilhato.com.br/sequilhos-pastel-queijo-com-goiaba"
-        }
-      ]
     }
   ]
 }

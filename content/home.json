@@ -25,7 +25,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": null,
+      "sort": "lowest_price",
       "collection_id": "605b291ea46e555927c40966:collections:Para Economizar 😉:/para-economizar-",
       "title": "Para Economizar 😉"
     },

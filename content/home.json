@@ -24,7 +24,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": null,
+      "collection_id": "605b291ea46e555927c40966:collections:Para Economizar 😉:/para-economizar-",
+      "title": "Para Economizar 😉"
     },
     {
       "type": "collection-shelf",

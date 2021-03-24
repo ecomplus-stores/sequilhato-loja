@@ -23,7 +23,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 4,
       "page": 1,
       "sort": "lowest_price",
       "collection_id": "605b291ea46e555927c40966:collections:Para Economizar 😉:/para-economizar-",

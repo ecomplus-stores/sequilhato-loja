@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/provasocial.png"
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },

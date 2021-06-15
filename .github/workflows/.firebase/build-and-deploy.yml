@@ -37,7 +37,7 @@ jobs:
           ref: ${{ github.ref }}
 
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2
         with:
           node-version: '12.x'
 
@@ -92,6 +92,7 @@ jobs:
         id: git_diff
 
       - name: Commit local file changes
+        continue-on-error: true
         if: steps.git_diff.outputs.diff == 1
         run: |
           git commit -m 'chore(post-build): update template and content defaults [skip ci]'
@@ -108,7 +109,9 @@ jobs:
         env:
           GCP_ACCOUNT_KEY: ${{ secrets.GCP_ACCOUNT_KEY }}
         run: |
-          export GOOGLE_APPLICATION_CREDENTIALS=".firebase-adminsdk.json"
-          echo $GCP_ACCOUNT_KEY > $GOOGLE_APPLICATION_CREDENTIALS
-          PROJECT_ID=$(node -p "require('./$GOOGLE_APPLICATION_CREDENTIALS').project_id")
-          GOOGLE_APPLICATION_CREDENTIALS=$GOOGLE_APPLICATION_CREDENTIALS npx firebase deploy --project=$PROJECT_ID
+          if [ -f .bundles.json ] && [ -f dist/storefront.js ]; then
+            export GOOGLE_APPLICATION_CREDENTIALS=".firebase-adminsdk.json";
+            echo $GCP_ACCOUNT_KEY > $GOOGLE_APPLICATION_CREDENTIALS;
+            PROJECT_ID=$(node -p "require('./$GOOGLE_APPLICATION_CREDENTIALS').project_id");
+            GOOGLE_APPLICATION_CREDENTIALS=$GOOGLE_APPLICATION_CREDENTIALS npx firebase deploy --project=$PROJECT_ID;
+          fi

@@ -14,7 +14,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/provasocialv2.png"
+      "img": "/img/uploads/provasocialv2.png",
+      "mobile_img": "/img/uploads/provasocialv2mobile.png"
     },
     {
       "type": "related-products",

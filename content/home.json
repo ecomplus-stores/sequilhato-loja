@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2021-09-13T12:20:22.103Z",
+          "end": "2021-09-27T02:58:22.258Z",
+          "img": "/img/uploads/quinzenadocliente2021_desktop.png",
+          "mobile_img": "/img/uploads/quinzenadocliente2021_mobile.png",
+          "link": "https://loja.sequilhato.com.br/search?term="
+        },
+        {
           "start": "2021-06-01T12:54:03.683Z",
           "end": "",
           "img": "/img/uploads/desktop-frete-gratis.png",

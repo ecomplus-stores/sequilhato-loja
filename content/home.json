@@ -14,6 +14,13 @@
           "mobile_img": "/img/uploads/lanche_feliz_mobile.png"
         },
         {
+          "start": "2021-10-06T18:08:52.479Z",
+          "end": "2021-10-13T02:58:52.610Z",
+          "img": "/img/uploads/pastel250g_desktop.png",
+          "mobile_img": "/img/uploads/pastel250g_mobile.png",
+          "link": "https://loja.sequilhato.com.br/sequilho-romeu-e-julieta-250g"
+        },
+        {
           "start": "2021-06-01T12:54:03.683Z",
           "end": "",
           "img": "/img/uploads/desktop-frete-gratis.png",
@@ -26,13 +33,6 @@
           "img": "/img/uploads/queijo180g_desktop.png",
           "link": "https://loja.sequilhato.com.br/sequilho-queijo-180g",
           "mobile_img": "/img/uploads/queijo180g_mobile.png"
-        },
-        {
-          "start": "2021-08-13T17:40:38.271Z",
-          "end": "",
-          "img": "/img/uploads/25_cremedeleite_desktop-1-.png",
-          "mobile_img": "/img/uploads/25_cremedeleite_mobile_ads.png",
-          "link": "https://loja.sequilhato.com.br/sequilho-de-creme-de-leite-pouch-200g"
         }
       ]
     },

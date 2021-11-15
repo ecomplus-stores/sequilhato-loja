@@ -33,6 +33,13 @@
           "img": "/img/uploads/queijo180g_desktop.png",
           "link": "https://loja.sequilhato.com.br/sequilho-queijo-180g",
           "mobile_img": "/img/uploads/queijo180g_mobile.png"
+        },
+        {
+          "start": "2021-11-15T18:50:39.991Z",
+          "end": "2021-11-22T02:59:40.326Z",
+          "img": "/img/uploads/desktop-fretegratis-salvador.png",
+          "mobile_img": "/img/uploads/mobile-fretegratis-salvador.png",
+          "link": "https://loja.sequilhato.com.br/search?term="
         }
       ]
     },

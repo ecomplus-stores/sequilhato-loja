@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2021-11-23T12:26:03.158Z",
+          "end": "2021-11-27T02:59:03.224Z",
+          "img": "/img/uploads/bw_queridinhos-2021.png",
+          "mobile_img": "/img/uploads/mobile_bw_queridinhos-2021.png",
+          "link": "https://loja.sequilhato.com.br/search?term=blackweek2021"
+        },
+        {
           "start": "2021-11-03T17:39:04.519Z",
           "end": "2021-11-16T02:59:04.855Z",
           "img": "/img/uploads/desktop_-_pouch_80g_alho.png",
@@ -33,13 +40,6 @@
           "img": "/img/uploads/queijo180g_desktop.png",
           "link": "https://loja.sequilhato.com.br/sequilho-queijo-180g",
           "mobile_img": "/img/uploads/queijo180g_mobile.png"
-        },
-        {
-          "start": "2021-11-23T12:26:03.158Z",
-          "end": "2021-11-27T02:59:03.224Z",
-          "img": "/img/uploads/bw_queridinhos-2021.png",
-          "mobile_img": "/img/uploads/mobile_bw_queridinhos-2021.png",
-          "link": "https://loja.sequilhato.com.br/search?term=blackweek2021"
         }
       ]
     },

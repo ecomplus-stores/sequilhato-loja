@@ -12,20 +12,6 @@
           "img": "/img/uploads/sfg-desktop-1-.png",
           "link": "https://loja.sequilhato.com.br/search?term=",
           "mobile_img": "/img/uploads/sfg-mobile-1-.png"
-        },
-        {
-          "start": "2021-10-06T18:08:52.479Z",
-          "end": "2021-10-13T02:58:52.610Z",
-          "img": "/img/uploads/pastel250g_desktop.png",
-          "mobile_img": "/img/uploads/pastel250g_mobile.png",
-          "link": "https://loja.sequilhato.com.br/sequilho-romeu-e-julieta-250g"
-        },
-        {
-          "start": "2021-09-24T19:02:38.648Z",
-          "end": "",
-          "img": "/img/uploads/queijo180g_desktop.png",
-          "link": "https://loja.sequilhato.com.br/sequilho-queijo-180g",
-          "mobile_img": "/img/uploads/queijo180g_mobile.png"
         }
       ]
     },

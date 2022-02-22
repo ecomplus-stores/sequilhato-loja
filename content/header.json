@@ -11,7 +11,14 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/sequilhos-doce?Doce",
+      "/sequilhos-salgado?Salgado",
+      "/sequilhos-recheado?Recheado",
+      "/kits-de-sequilhos?Kits Especiais",
+      "/caixa-presente?Caixa Presente",
+      "/depoimentos?Depoimentos"
+    ],
     "random": 6,
     "full_width": true
   },

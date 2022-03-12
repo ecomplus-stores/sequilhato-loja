@@ -12,6 +12,13 @@
           "img": "/img/uploads/sfg-desktop-1-.png",
           "link": "https://loja.sequilhato.com.br/search?term=",
           "mobile_img": "/img/uploads/sfg-mobile-1-.png"
+        },
+        {
+          "start": "2022-03-14T13:21:13.748Z",
+          "end": "2022-03-20T02:59:13.993Z",
+          "img": "/img/uploads/dia-do-consumidor-1140x300.jpg",
+          "link": "https://loja.sequilhato.com.br/kits-de-sequilhos",
+          "mobile_img": "/img/uploads/dia-do-consumidor.jpg"
         }
       ],
       "full_width": true

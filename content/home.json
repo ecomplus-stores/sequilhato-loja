@@ -8,12 +8,13 @@
       "slides": [
         {
           "start": "2021-10-18T14:35:43.625Z",
-          "end": "",
+          "end": "2022-03-14T16:01:00.000Z",
           "img": "/img/uploads/sfg-desktop-1-.png",
           "link": "https://loja.sequilhato.com.br/search?term=",
           "mobile_img": "/img/uploads/sfg-mobile-1-.png"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "collection-shelf",

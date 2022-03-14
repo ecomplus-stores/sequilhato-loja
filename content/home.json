@@ -24,6 +24,12 @@
       "full_width": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/1920-banner-frete-gratis-loja.jpg",
+      "mobile_img": "/img/uploads/1080-banner-frete-gratis-loja.jpg",
+      "link": "https://loja.sequilhato.com.br/search?term="
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "6114124133f3ce442f898dd4:collections:Mais Vendidos 💞:/mais-vendidos",

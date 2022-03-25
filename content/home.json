@@ -7,18 +7,18 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2022-03-25T19:53:38.919Z",
+          "end": "2023-03-01T19:53:38.960Z",
+          "img": "/img/uploads/1banner.jpg",
+          "link": "https://loja.sequilhato.com.br/sequilhos-doce",
+          "mobile_img": "/img/uploads/2banner.jpg"
+        },
+        {
           "start": "2021-10-18T14:35:43.625Z",
           "end": "2022-03-13T16:01:00.000Z",
           "img": "/img/uploads/sfg-desktop-1-.png",
           "link": "https://loja.sequilhato.com.br/search?term=",
           "mobile_img": "/img/uploads/sfg-mobile-1-.png"
-        },
-        {
-          "start": "2022-03-14T12:02:13.748Z",
-          "end": "2022-03-19T02:59:13.993Z",
-          "img": "/img/uploads/dia-do-consumidor-1140x300.jpg",
-          "link": "https://loja.sequilhato.com.br/kits-de-sequilhos",
-          "mobile_img": "/img/uploads/dia-do-consumidor.jpg"
         }
       ],
       "full_width": true

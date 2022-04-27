@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "A origem dos Sequilhos"
+    },
+    {
       "type": "blog-post",
       "enabled": true
     },
@@ -28,6 +32,6 @@
   ],
   "thumbnail": "/img/uploads/coco.jpg",
   "description": "",
-  "meta_title": "",
+  "meta_title": "A origem dos Sequilhos",
   "meta_description": ""
 }

@@ -12,7 +12,7 @@
         "link": "loja.sequilhato.com.br/blog"
       }
     ],
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": false
   },
   "categories_list": {

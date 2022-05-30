@@ -24,6 +24,20 @@
       "full_width": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-05-30T18:20:46.372Z",
+          "end": "2028-04-01T18:20:46.414Z",
+          "img": "/img/uploads/1920-banner-frete-gratis-loja.jpg",
+          "link": "https://loja.sequilhato.com.br/search?term=",
+          "mobile_img": "/img/uploads/1080-banner-frete-gratis-loja.jpg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/1920-banner-frete-gratis-loja.jpg",
       "mobile_img": "/img/uploads/1080-banner-frete-gratis-loja.jpg",

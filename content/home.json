@@ -7,6 +7,12 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2022-07-01T12:57:17.482Z",
+          "end": "2022-07-31T12:57:17.657Z",
+          "img": "/img/uploads/julho-carequinha-desktop-1-.jpg",
+          "mobile_img": "/img/uploads/julho-carequinha-mobile.jpg"
+        },
+        {
           "start": "2022-03-25T19:53:38.919Z",
           "end": "2023-03-01T19:53:38.960Z",
           "img": "/img/uploads/1banner.jpg",

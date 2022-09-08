@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "",
+          "end": "2022-09-12T03:00:00.000Z",
+          "link": "https://loja.sequilhato.com.br/kit-amo-sequilho-de-queijo",
+          "img": "/img/uploads/amo-sequilho-de-queijo-dkt.jpg",
+          "mobile_img": "/img/uploads/amo-sequilho-de-queijo-mobile.jpg"
+        },
+        {
           "start": "2022-07-11T13:35:46.123Z",
           "end": "2022-12-31T13:35:46.170Z",
           "img": "/img/uploads/folhas-1-.jpg",

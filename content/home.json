@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "",
+          "end": "2022-10-04T02:59:00.000Z",
+          "img": "/img/uploads/primavera-1140x300.jpeg",
+          "link": "https://loja.sequilhato.com.br/search?term=primavera",
+          "mobile_img": "/img/uploads/primavera.jpg"
+        },
+        {
           "start": "2022-07-11T13:35:46.123Z",
           "end": "2022-12-31T13:35:46.170Z",
           "img": "/img/uploads/folhas-1-.jpg",

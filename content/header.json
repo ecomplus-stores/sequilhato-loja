@@ -23,11 +23,14 @@
       "/kits-de-sequilhos?Kits Especiais",
       "/caixa-presente?Caixa Presente",
       "/depoimentos?Depoimentos",
-      "/blog?Blog"
+      "/blog?Blog",
+      "/esquenta-bf?Esquenta BF"
     ],
     "random": 0,
     "full_width": true
   },
   "search_input": true,
-  "desktop_megamenu": true
+  "desktop_megamenu": true,
+  "full_width_submenu": true,
+  "alphabetical_order_submenu": true
 }

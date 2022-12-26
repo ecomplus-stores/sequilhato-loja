@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2022-12-26T12:47:47.233Z",
+          "end": "2023-01-09T02:59:00.000Z",
+          "img": "/img/uploads/banner-ano-novo.jpg",
+          "link": "https://loja.sequilhato.com.br/search?term=",
+          "mobile_img": "/img/uploads/ano-novo-1080x1080.jpg"
+        },
+        {
           "start": "2022-07-11T13:35:46.123Z",
           "end": "2022-12-31T13:35:46.170Z",
           "img": "/img/uploads/folhas-1-.jpg",

@@ -7,25 +7,11 @@
       "autoplay": 0,
       "slides": [
         {
-          "start": "2023-02-21T22:00:21.100Z",
-          "end": "2023-03-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-carnaval-sequilhato.jpg",
-          "mobile_img": "/img/uploads/carnaval-sequilhato-1080x1080.jpg",
-          "link": "https://loja.sequilhato.com.br/search?term=pacote"
-        },
-        {
           "start": "2022-03-25T19:53:38.919Z",
           "end": "2023-03-01T19:53:38.960Z",
           "img": "/img/uploads/1banner.jpg",
           "link": "https://loja.sequilhato.com.br/sequilhos-doce",
           "mobile_img": "/img/uploads/2banner.jpg"
-        },
-        {
-          "start": "2023-02-18T03:49:03.873Z",
-          "end": "2023-03-01T02:49:07.328Z",
-          "img": "/img/uploads/banner-carnaval-sequilhato.jpg",
-          "link": "https://loja.sequilhato.com.br/search?term=pacote",
-          "mobile_img": "/img/uploads/carnaval-sequilhato-1080x1080.jpg"
         }
       ],
       "full_width": true

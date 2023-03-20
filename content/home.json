@@ -7,6 +7,12 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2023-03-20T18:27:02.302Z",
+          "end": "2023-04-01T02:59:00.000Z",
+          "img": "/img/uploads/banner-bem-vindo-outono.jpg",
+          "mobile_img": "/img/uploads/bem-vindo-outono_1080x1080.jpg"
+        },
+        {
           "start": "2023-03-13T14:29:10.114Z",
           "end": "",
           "img": "/img/uploads/1banner.jpg",
@@ -40,10 +46,6 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f7dcc30b2161709fa3c0b53"
-    },
-    {
-      "type": "custom-html",
-      "html": "\n<h1 style=\"text-align: center;\n    color: #802e34; font-size: 20px;\">Conheça a história dos melhores Sequilhos caseiros!</h1>\n"
     },
     {
       "type": "banners-grid",

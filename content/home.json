@@ -7,6 +7,12 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2023-05-08T12:53:33.136Z",
+          "end": "2023-05-14T02:59:00.000Z",
+          "img": "/img/uploads/dia-das-maes-desktop.jpg",
+          "mobile_img": "/img/uploads/dia-das-maes-mobile.jpg"
+        },
+        {
           "start": "2023-03-13T14:29:10.114Z",
           "end": "",
           "img": "/img/uploads/1banner.jpg",

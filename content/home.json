@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2023-06-26T03:00:00.000Z",
+          "end": "2023-06-03T03:00:00.000Z",
+          "img": "/img/uploads/produtos-amados-desktop.jpg",
+          "link": "https://loja.sequilhato.com.br/search?term=mais+queridos",
+          "mobile_img": "/img/uploads/produtos-amados-mobile.jpg"
+        },
+        {
           "start": "2023-06-13T12:24:49.520Z",
           "end": "2023-06-26T03:00:00.000Z",
           "img": "/img/uploads/sao-joao-desktop.jpg",

@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2023-09-11T13:14:11.517Z",
+          "end": "2023-09-18T03:00:00.000Z",
+          "img": "/img/uploads/semana-do-cliente-desktop.jpg",
+          "link": "https://loja.sequilhato.com.br/sequilho-romeu-e-julieta-500g",
+          "mobile_img": "/img/uploads/semana-do-cliente-mobile.jpg"
+        },
+        {
           "start": "2023-03-13T14:29:10.114Z",
           "end": "",
           "img": "/img/uploads/1banner.jpg",

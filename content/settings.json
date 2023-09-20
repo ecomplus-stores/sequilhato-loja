@@ -1,6 +1,7 @@
 {
   "domain": "loja.sequilhato.com.br",
   "currency_symbol": "R$",
+  "repository": "ecomplus-stores/sequilhato-loja",
   "primary_color": "#802e34",
   "theme": {
     "bootswatch": "_",

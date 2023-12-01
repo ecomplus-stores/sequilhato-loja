@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2023-12-01T03:31:18.383Z",
+          "end": "2023-12-11T03:00:00.000Z",
+          "img": "/img/uploads/confra-desktop.jpg",
+          "link": "https://loja.sequilhato.com.br/kit-amo-sequilho-de-queijo",
+          "mobile_img": "/img/uploads/confra-mobile.jpg"
+        },
+        {
           "start": "2023-03-13T14:29:10.114Z",
           "end": "",
           "img": "/img/uploads/1banner.jpg",

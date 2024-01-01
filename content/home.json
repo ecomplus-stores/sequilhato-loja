@@ -7,6 +7,13 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2024-01-02T10:00:00.000Z",
+          "end": "2024-01-13T03:00:00.000Z",
+          "img": "/img/uploads/ferias-farra-e-sequilho-desktop.jpg",
+          "link": "https://loja.sequilhato.com.br/kit-especial-sabor-de-infancia",
+          "mobile_img": "/img/uploads/ferias-farra-e-sequilho-mobile.jpg"
+        },
+        {
           "start": "2023-12-26T11:31:17.337Z",
           "end": "2024-01-02T03:00:00.000Z",
           "img": "/img/uploads/2024-cheio-de-docura-desktop.jpg",

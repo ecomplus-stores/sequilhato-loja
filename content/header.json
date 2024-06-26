@@ -24,7 +24,8 @@
       "/caixa-presente?Caixa Presente",
       "/depoimentos?Depoimentos",
       "/blog?Blog",
-      "/ofertas?Ofertas"
+      "/ofertas?Ofertas",
+      "/revenda?Revenda"
     ],
     "random": 0,
     "full_width": true

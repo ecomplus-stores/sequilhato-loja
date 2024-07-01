@@ -19,6 +19,13 @@
           "img": "/img/uploads/1banner.jpg",
           "link": "https://loja.sequilhato.com.br/sequilhos-doce",
           "mobile_img": "/img/uploads/2banner.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/independencia-da-bahia-desktop.webp",
+          "link": "https://loja.sequilhato.com.br/search?term=",
+          "mobile_img": "/img/uploads/independencia-da-bahia-mobile.webp"
         }
       ],
       "full_width": true

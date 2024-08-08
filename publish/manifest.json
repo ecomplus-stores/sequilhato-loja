@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ba32589005f9cd2bbddb7a9eccaacea1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a097519038e56296a4b71936eefc71ab.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.37d7ce3dd4ff788e9e786b7accb4df3b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.040391ac230f44ca228ac7cca5d79608.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.26e63a7e2f79e1ac10bce9cb7ec9013d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Sequilhato",
+  "short_name": "Sequilhato",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sequilhos finos com ingredientes selecionados e sabor único !",
+  "background_color": "#fafafa",
+  "theme_color": "#802e34"
+}

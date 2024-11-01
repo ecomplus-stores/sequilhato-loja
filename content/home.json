@@ -12,6 +12,13 @@
           "img": "/img/uploads/1banner.jpg",
           "link": "https://loja.sequilhato.com.br/sequilhos-doce",
           "mobile_img": "/img/uploads/2banner.jpg"
+        },
+        {
+          "start": "2024-11-01T12:45:51.387Z",
+          "end": "2024-11-22T03:00:00.000Z",
+          "img": "/img/uploads/esquenta-black-friday-desktop-1-.jpg",
+          "link": "https://loja.sequilhato.com.br/amor-tamanho-familia",
+          "mobile_img": "/img/uploads/esquenta-black-friday-mobile-1-.jpg"
         }
       ],
       "full_width": true

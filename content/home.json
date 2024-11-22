@@ -4,14 +4,14 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 10000,
       "slides": [
         {
-          "start": "2024-11-01T12:45:51.387Z",
-          "end": "2024-11-22T03:00:00.000Z",
-          "img": "/img/uploads/esquenta-black-friday-desktop-1-.jpg",
-          "link": "https://loja.sequilhato.com.br/amor-tamanho-familia",
-          "mobile_img": "/img/uploads/esquenta-black-friday-mobile-1-.jpg"
+          "start": "2024-11-22T12:20:03.379Z",
+          "end": "2024-12-01T02:59:00.000Z",
+          "img": "/img/uploads/black-sequilhos-doces-desktop.webp",
+          "link": "https://loja.sequilhato.com.br/search?term=week",
+          "mobile_img": "/img/uploads/black-sequilhos-doces-mobile.webp"
         },
         {
           "start": "2023-03-13T14:29:10.114Z",

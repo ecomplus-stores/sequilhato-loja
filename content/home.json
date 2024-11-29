@@ -7,15 +7,8 @@
       "autoplay": 10000,
       "slides": [
         {
-          "start": "2024-11-29T09:29:16.136Z",
-          "end": "2024-11-30T03:00:00.000Z",
-          "img": "/img/uploads/black-kit-apaixonados-desktop-1-.webp",
-          "mobile_img": "/img/uploads/black-kit-apaixonados-mobile-1-.webp",
-          "link": "https://loja.sequilhato.com.br/kit-apaixonados-por-pastel-de-queijo-com-goiaba"
-        },
-        {
           "start": "2024-11-22T12:20:03.379Z",
-          "end": "2024-11-29T12:29:46.113Z",
+          "end": "2024-12-01T02:59:00.000Z",
           "img": "/img/uploads/black-sequilhos-doces-desktop.webp",
           "link": "https://loja.sequilhato.com.br/search?term=week",
           "mobile_img": "/img/uploads/black-sequilhos-doces-mobile.webp"
@@ -26,6 +19,13 @@
           "img": "/img/uploads/1banner.jpg",
           "link": "https://loja.sequilhato.com.br/sequilhos-doce",
           "mobile_img": "/img/uploads/2banner.jpg"
+        },
+        {
+          "start": "2024-11-29T12:30:39.453Z",
+          "end": "2024-11-30T03:00:00.000Z",
+          "img": "/img/uploads/black-kit-apaixonados-desktop-1-.webp",
+          "mobile_img": "/img/uploads/black-kit-apaixonados-mobile-1-.webp",
+          "link": "https://loja.sequilhato.com.br/kit-apaixonados-por-pastel-de-queijo-com-goiaba"
         }
       ],
       "full_width": true

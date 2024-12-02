@@ -8,7 +8,7 @@
   },
   "bg_color": "#fafafa",
   "repository": "ecomplus-stores/sequilhato-loja",
-  "logo": "/img/uploads/logo-com-contorno.png",
+  "logo": "/img/uploads/selo-comemorativo-30-anos-sequilhato.png",
   "name": "Sequilhato",
   "short_name": "Sequilhato",
   "lang": "pt_br",
@@ -19,8 +19,8 @@
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#802e34",
-  "icon": "/img/uploads/iconemobile.png",
+  "icon": "/img/uploads/selo-comemorativo-30-anos-sequilhato.png",
   "store_id": 1164,
   "description": "Sequilhos finos com ingredientes selecionados e sabor único !",
-  "large_icon": "/img/uploads/iconemobile.png"
+  "large_icon": "/img/uploads/selo-comemorativo-30-anos-sequilhato.png"
 }

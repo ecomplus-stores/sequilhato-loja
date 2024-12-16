@@ -734,13 +734,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
+      <loc>https://loja.sequilhato.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/sobre-nos</loc>
+      <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -758,25 +758,25 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/4-passos-para-voce-montar-a-sua-mesa-posta</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -842,13 +842,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/melhores-doces-para-festa-junina</loc>
+      <loc>https://loja.sequilhato.com.br/posts/dicas-para-organizar-o-seu-coffee-break</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/dicas-para-organizar-o-seu-coffee-break</loc>
+      <loc>https://loja.sequilhato.com.br/posts/melhores-doces-para-festa-junina</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -878,13 +878,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/receitas-com-sequilhos-5-sobremesas-irresistiveis</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
+      <loc>https://loja.sequilhato.com.br/posts/receitas-com-sequilhos-5-sobremesas-irresistiveis</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -944,13 +944,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/app/index</loc>
+      <loc>https://loja.sequilhato.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/admin/index</loc>
+      <loc>https://loja.sequilhato.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>

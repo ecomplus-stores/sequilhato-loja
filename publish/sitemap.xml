@@ -680,12 +680,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/voce-vai-amar-</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -716,6 +710,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -728,13 +728,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/privacidade</loc>
+      <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
+      <loc>https://loja.sequilhato.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -764,12 +764,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -777,6 +771,12 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

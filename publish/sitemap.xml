@@ -728,6 +728,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -746,12 +752,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/4-ideias-de-lanches-rapidos-e-deliciosos-para-o-dia-a-dia</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -764,13 +764,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
+      <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

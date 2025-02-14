@@ -716,13 +716,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/contato</loc>
+      <loc>https://loja.sequilhato.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/entrega</loc>
+      <loc>https://loja.sequilhato.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -734,13 +734,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
+      <loc>https://loja.sequilhato.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/sobre-nos</loc>
+      <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -824,13 +824,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-preparar-um-cafe-da-manha-especial</loc>
+      <loc>https://loja.sequilhato.com.br/posts/desvendando-o-segredo-da-ceia-de-natal-sofisticada-dicas-para-brilhar-na-mesa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/desvendando-o-segredo-da-ceia-de-natal-sofisticada-dicas-para-brilhar-na-mesa</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-preparar-um-cafe-da-manha-especial</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -884,13 +884,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

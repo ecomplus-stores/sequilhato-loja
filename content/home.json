@@ -19,6 +19,13 @@
           "img": "/img/uploads/latas-comemorativas-desktop.webp",
           "mobile_img": "/img/uploads/latas-comemorativas-mobile.webp",
           "link": "https://loja.sequilhato.com.br/search?term=lata"
+        },
+        {
+          "start": "2025-03-08T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/semana-do-consumidor-desktop-1-.webp",
+          "link": "https://loja.sequilhato.com.br/search?term=",
+          "mobile_img": "/img/uploads/semana-do-consumidor-mobile.webp"
         }
       ],
       "full_width": true

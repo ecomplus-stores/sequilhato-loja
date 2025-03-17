@@ -7,25 +7,18 @@
       "autoplay": 0,
       "slides": [
         {
-          "start": "2025-03-11T18:04:53.319Z",
-          "end": "",
-          "img": "/img/uploads/semana-do-consumidor-desktop-1-.webp",
-          "link": "Garrafas plásticas estrangeiras, principalmente asiáticas, aparecem cada vez mais no litoral do Brasil. Entenda as causas e impactos dessa poluição.",
-          "mobile_img": "/img/uploads/semana-do-consumidor-mobile.webp"
-        },
-        {
-          "start": "2025-03-08T03:00:00.000Z",
-          "end": "2025-03-16T03:00:00.000Z",
-          "img": "/img/uploads/semana-do-consumidor-desktop-1-.webp",
-          "link": "https://loja.sequilhato.com.br/search?term=",
-          "mobile_img": "/img/uploads/semana-do-consumidor-mobile.webp"
-        },
-        {
           "start": "2025-02-03T23:17:23.591Z",
           "end": "",
           "img": "/img/uploads/latas-comemorativas-desktop.webp",
           "mobile_img": "/img/uploads/latas-comemorativas-mobile.webp",
           "link": "https://loja.sequilhato.com.br/search?term=lata"
+        },
+        {
+          "start": "2025-03-17T12:41:33.394Z",
+          "end": "2025-04-01T02:59:00.000Z",
+          "img": "/img/uploads/volta-as-aulas-desktop.webp",
+          "mobile_img": "/img/uploads/volta-as-aulas-mobile.webp",
+          "link": "https://loja.sequilhato.com.br/kit-lanche"
         }
       ],
       "full_width": true

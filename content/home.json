@@ -7,18 +7,18 @@
       "autoplay": 0,
       "slides": [
         {
-          "start": "2025-02-03T23:17:23.591Z",
-          "end": "",
-          "img": "/img/uploads/latas-comemorativas-desktop.webp",
-          "mobile_img": "/img/uploads/latas-comemorativas-mobile.webp",
-          "link": "https://loja.sequilhato.com.br/search?term=lata"
-        },
-        {
           "start": "2025-03-17T12:41:33.394Z",
           "end": "2025-04-01T02:59:00.000Z",
           "img": "/img/uploads/volta-as-aulas-desktop.webp",
           "mobile_img": "/img/uploads/volta-as-aulas-mobile.webp",
           "link": "https://loja.sequilhato.com.br/kit-lanche"
+        },
+        {
+          "start": "2025-02-03T23:17:23.591Z",
+          "end": "",
+          "img": "/img/uploads/latas-comemorativas-desktop.webp",
+          "mobile_img": "/img/uploads/latas-comemorativas-mobile.webp",
+          "link": "https://loja.sequilhato.com.br/search?term=lata"
         }
       ],
       "full_width": true

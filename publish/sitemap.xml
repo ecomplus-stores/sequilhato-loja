@@ -782,6 +782,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -789,12 +795,6 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/ceia-de-reveillon-comidas-para-trazer-sorte-ao-ano-novo</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

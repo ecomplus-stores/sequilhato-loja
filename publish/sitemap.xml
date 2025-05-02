@@ -818,13 +818,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-escolher-o-acompanhamento-perfeito-para-o-seu-evento-sequilhos-e-mais</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-escolher-o-acompanhamento-perfeito-para-o-seu-evento-sequilhos-e-mais</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -878,25 +878,25 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/o-que-sao-sequilhos-finos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/posts/receita-de-sequilhos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/qual-a-origem-dos-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/posts/o-que-sao-sequilhos-finos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/posts/receitas-com-sequilhos-5-sobremesas-irresistiveis</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/receita-de-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -962,13 +962,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/app/index</loc>
+      <loc>https://loja.sequilhato.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/admin/index</loc>
+      <loc>https://loja.sequilhato.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>

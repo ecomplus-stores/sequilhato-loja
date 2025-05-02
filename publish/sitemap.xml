@@ -128,12 +128,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/sequilho-carequinha-queijo-com-azeitona</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -734,6 +728,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -860,12 +860,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/dicas-para-organizar-o-seu-coffee-break</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/melhores-doces-para-festa-junina</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -873,6 +867,12 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/o-que-fazer-no-dia-das-maes</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/dicas-para-organizar-o-seu-coffee-break</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

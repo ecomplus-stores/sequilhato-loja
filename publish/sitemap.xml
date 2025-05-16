@@ -710,7 +710,7 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/voce-vai-amar-</loc>
+      <loc>https://loja.sequilhato.com.br/voce-vai-amar</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -770,13 +770,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/trocas</loc>
+      <loc>https://loja.sequilhato.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/sobre-nos</loc>
+      <loc>https://loja.sequilhato.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -836,13 +836,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -914,13 +914,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -962,15 +962,15 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>

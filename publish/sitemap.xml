@@ -836,13 +836,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -890,12 +890,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/o-que-sao-sequilhos-finos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/qual-a-origem-dos-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -903,6 +897,12 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/receita-de-sequilhos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/o-que-sao-sequilhos-finos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

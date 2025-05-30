@@ -800,13 +800,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -830,13 +830,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-escolher-o-acompanhamento-perfeito-para-o-seu-evento-sequilhos-e-mais</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-escolher-o-acompanhamento-perfeito-para-o-seu-evento-sequilhos-e-mais</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -956,6 +956,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -968,19 +974,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/admin/index</loc>
+      <loc>https://loja.sequilhato.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/app/index</loc>
+      <loc>https://loja.sequilhato.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>

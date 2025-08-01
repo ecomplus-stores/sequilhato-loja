@@ -794,19 +794,25 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/4-passos-para-voce-montar-a-sua-mesa-posta</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -819,12 +825,6 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/comida-e-copa-do-mundo-4-lanches</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -920,13 +920,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

@@ -19,6 +19,13 @@
           "img": "/img/uploads/novo-sabor-desktop.webp",
           "link": "https://loja.sequilhato.com.br/limao-e-goiabada",
           "mobile_img": "/img/uploads/novo-sabor-mobile.webp"
+        },
+        {
+          "start": "2025-08-08T18:40:01.284Z",
+          "end": "",
+          "img": "/img/uploads/pastel-de-queijo-com-goiaba-desktop.webp",
+          "link": "https://loja.sequilhato.com.br/sequilhos-pastel-queijo-com-goiaba",
+          "mobile_img": "/img/uploads/pastel-de-queijo-com-goiaba-mobile.webp"
         }
       ],
       "full_width": true

@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 6000,
+      "autoplay": 5000,
       "slides": [
         {
           "start": "2025-08-06T03:00:00.000Z",
@@ -14,18 +14,18 @@
           "mobile_img": "/img/uploads/dia-dos-pais-mobile-_1_.webp"
         },
         {
-          "start": "2025-05-20T14:01:50.508Z",
-          "end": "",
-          "img": "/img/uploads/novo-sabor-desktop.webp",
-          "link": "https://loja.sequilhato.com.br/limao-e-goiabada",
-          "mobile_img": "/img/uploads/novo-sabor-mobile.webp"
-        },
-        {
           "start": "2025-08-08T18:40:01.284Z",
           "end": "",
           "img": "/img/uploads/pastel-de-queijo-com-goiaba-desktop.webp",
           "link": "https://loja.sequilhato.com.br/sequilhos-pastel-queijo-com-goiaba",
           "mobile_img": "/img/uploads/pastel-de-queijo-com-goiaba-mobile.webp"
+        },
+        {
+          "start": "2025-05-20T14:01:50.508Z",
+          "end": "",
+          "img": "/img/uploads/novo-sabor-desktop.webp",
+          "link": "https://loja.sequilhato.com.br/limao-e-goiabada",
+          "mobile_img": "/img/uploads/novo-sabor-mobile.webp"
         }
       ],
       "full_width": true

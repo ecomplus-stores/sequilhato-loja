@@ -848,12 +848,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/como-montar-uma-cesta-de-dia-das-maes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -861,6 +855,12 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/como-preparar-um-cafe-da-manha-especial</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -884,19 +884,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/melhores-doces-para-festa-junina</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/o-que-fazer-no-dia-das-maes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/o-que-sao-sequilhos-finos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/melhores-doces-para-festa-junina</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -908,13 +902,19 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/receita-de-sequilhos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/o-que-sao-sequilhos-finos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/receitas-com-sequilhos-5-sobremesas-irresistiveis</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/receita-de-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -986,15 +986,15 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>

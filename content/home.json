@@ -26,6 +26,13 @@
           "img": "/img/uploads/novo-sabor-desktop.webp",
           "link": "https://loja.sequilhato.com.br/limao-e-goiabada",
           "mobile_img": "/img/uploads/novo-sabor-mobile.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/quinzena-do-cliente-desktop.webp",
+          "link": "https://loja.sequilhato.com.br/search?term=quinzena",
+          "mobile_img": "/img/uploads/quinzena-do-cliente-mobile.webp"
         }
       ],
       "full_width": true

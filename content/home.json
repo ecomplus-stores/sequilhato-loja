@@ -7,6 +7,13 @@
       "autoplay": 5000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/quinzena-do-cliente-desktop.webp",
+          "link": "https://loja.sequilhato.com.br/search?term=quinzena",
+          "mobile_img": "/img/uploads/quinzena-do-cliente-mobile.webp"
+        },
+        {
           "start": "2025-08-08T18:40:01.284Z",
           "end": "",
           "img": "/img/uploads/pastel-de-queijo-com-goiaba-desktop-_1_.webp",
@@ -26,13 +33,6 @@
           "img": "/img/uploads/novo-sabor-desktop.webp",
           "link": "https://loja.sequilhato.com.br/limao-e-goiabada",
           "mobile_img": "/img/uploads/novo-sabor-mobile.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/quinzena-do-cliente-desktop.webp",
-          "link": "https://loja.sequilhato.com.br/search?term=quinzena",
-          "mobile_img": "/img/uploads/quinzena-do-cliente-mobile.webp"
         }
       ],
       "full_width": true

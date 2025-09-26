@@ -776,13 +776,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/sobre-nos</loc>
+      <loc>https://loja.sequilhato.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/trocas</loc>
+      <loc>https://loja.sequilhato.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -818,25 +818,25 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/ceia-de-reveillon-comidas-para-trazer-sorte-ao-ano-novo</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/comida-e-copa-do-mundo-4-lanches</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/comidas-para-uma-festa-junina</loc>
+      <loc>https://loja.sequilhato.com.br/posts/ceia-de-reveillon-comidas-para-trazer-sorte-ao-ano-novo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/como-escolher-o-acompanhamento-perfeito-para-o-seu-evento-sequilhos-e-mais</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/comidas-para-uma-festa-junina</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -872,13 +872,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/dicas-para-armazenar-seus-sequilhos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/dicas-para-organizar-o-seu-coffee-break</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/dicas-para-organizar-o-seu-coffee-break</loc>
+      <loc>https://loja.sequilhato.com.br/posts/dicas-para-armazenar-seus-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

@@ -7,6 +7,13 @@
       "autoplay": 15000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/doce-como-a-infancia-desktop.webp",
+          "link": "https://loja.sequilhato.com.br/kit-especial-sabor-de-infancia",
+          "mobile_img": "/img/uploads/doce-como-a-infancia-mobile.webp"
+        },
+        {
           "start": "2025-08-08T18:40:01.284Z",
           "end": "",
           "img": "/img/uploads/pastel-de-queijo-com-goiaba-desktop-_1_.webp",
@@ -19,13 +26,6 @@
           "img": "/img/uploads/kits-de-revenda-desktop.webp",
           "link": "https://loja.sequilhato.com.br/revenda",
           "mobile_img": "/img/uploads/kits-de-revenda-mobile.webp"
-        },
-        {
-          "start": "2025-05-20T14:01:50.508Z",
-          "end": "",
-          "img": "/img/uploads/novo-sabor-desktop.webp",
-          "link": "https://loja.sequilhato.com.br/limao-e-goiabada",
-          "mobile_img": "/img/uploads/novo-sabor-mobile.webp"
         }
       ],
       "full_width": true

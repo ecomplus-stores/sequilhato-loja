@@ -7,6 +7,13 @@
       "autoplay": 15000,
       "slides": [
         {
+          "start": "2025-11-28T12:31:21.316Z",
+          "end": "2025-11-29T03:00:00.000Z",
+          "img": "/img/uploads/black-friday-desktop-1-.jpg",
+          "link": "https://loja.sequilhato.com.br/ofertas",
+          "mobile_img": "/img/uploads/black-friday-mobile-1-.jpg"
+        },
+        {
           "start": "2025-11-24T13:07:52.530Z",
           "end": "2025-11-29T03:00:00.000Z",
           "img": "/img/uploads/black-week-desktop.jpg",

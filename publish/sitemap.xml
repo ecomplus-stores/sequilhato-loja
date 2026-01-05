@@ -608,6 +608,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/sequilhos-doce</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -759,12 +765,6 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/mais-vendidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -950,13 +950,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-como-sobremesa-uma-opcao-refinada-para-finalizar-suas-refeicoes</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-e-criancas-dicas-para-a-hora-do-lanche</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-e-criancas-dicas-para-a-hora-do-lanche</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-como-sobremesa-uma-opcao-refinada-para-finalizar-suas-refeicoes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

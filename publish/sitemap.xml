@@ -860,12 +860,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -873,6 +867,12 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/como-montar-uma-cesta-de-dia-das-maes</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -896,19 +896,25 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/melhores-doces-para-festa-junina</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/dicas-para-organizar-o-seu-coffee-break</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/posts/melhores-doces-para-festa-junina</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/posts/o-que-fazer-no-dia-das-maes</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/o-que-sao-sequilhos-finos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -926,19 +932,7 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/o-que-sao-sequilhos-finos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/receitas-com-sequilhos-5-sobremesas-irresistiveis</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -950,19 +944,25 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/posts/sequilhos-como-sobremesa-uma-opcao-refinada-para-finalizar-suas-refeicoes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/tradicoes-do-sao-joao-como-os-sequilhos-podem-fazer-parte-dessa-festa</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-e-criancas-dicas-para-a-hora-do-lanche</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-e-criancas-dicas-para-a-hora-do-lanche</loc>
+      <loc>https://loja.sequilhato.com.br/posts/tradicoes-do-sao-joao-como-os-sequilhos-podem-fazer-parte-dessa-festa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

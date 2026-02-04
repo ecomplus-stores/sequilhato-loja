@@ -734,12 +734,6 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/voce-vai-amar</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -765,6 +759,12 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -872,6 +872,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/posts/como-montar-uma-cesta-de-dia-das-maes</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/posts/como-preparar-um-cafe-da-manha-especial</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -879,12 +885,6 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/desvendando-o-segredo-da-ceia-de-natal-sofisticada-dicas-para-brilhar-na-mesa</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-montar-uma-cesta-de-dia-das-maes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -938,13 +938,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

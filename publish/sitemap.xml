@@ -818,13 +818,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/4-passos-para-voce-montar-a-sua-mesa-posta</loc>
+      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
+      <loc>https://loja.sequilhato.com.br/posts/4-passos-para-voce-montar-a-sua-mesa-posta</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -842,13 +842,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/comida-e-copa-do-mundo-4-lanches</loc>
+      <loc>https://loja.sequilhato.com.br/posts/ceia-de-reveillon-comidas-para-trazer-sorte-ao-ano-novo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/ceia-de-reveillon-comidas-para-trazer-sorte-ao-ano-novo</loc>
+      <loc>https://loja.sequilhato.com.br/posts/comida-e-copa-do-mundo-4-lanches</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -866,6 +866,12 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/posts/como-fazer-sequilhos-doces</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -873,12 +879,6 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/como-montar-uma-cesta-de-dia-das-maes</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -938,13 +938,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/receitas-com-sequilhos-5-sobremesas-irresistiveis</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
+      <loc>https://loja.sequilhato.com.br/posts/receitas-com-sequilhos-5-sobremesas-irresistiveis</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1004,13 +1004,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/admin/index</loc>
+      <loc>https://loja.sequilhato.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/app/index</loc>
+      <loc>https://loja.sequilhato.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>

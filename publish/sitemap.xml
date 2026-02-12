@@ -788,13 +788,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
+      <loc>https://loja.sequilhato.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/pages/privacidade</loc>
+      <loc>https://loja.sequilhato.com.br/pages/sequilhos-para-vender</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -818,19 +818,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/4-passos-para-voce-montar-a-sua-mesa-posta</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/a-combinacao-perfeita-sequilhos-e-chas-para-um-momento-relaxante</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -843,6 +837,12 @@
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/ceia-de-reveillon-comidas-para-trazer-sorte-ao-ano-novo</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -884,13 +884,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-preparar-um-cafe-da-manha-especial</loc>
+      <loc>https://loja.sequilhato.com.br/posts/desvendando-o-segredo-da-ceia-de-natal-sofisticada-dicas-para-brilhar-na-mesa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/desvendando-o-segredo-da-ceia-de-natal-sofisticada-dicas-para-brilhar-na-mesa</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-preparar-um-cafe-da-manha-especial</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -944,25 +944,25 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-e-criancas-dicas-para-a-hora-do-lanche</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/sequilhos-como-sobremesa-uma-opcao-refinada-para-finalizar-suas-refeicoes</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-e-criancas-dicas-para-a-hora-do-lanche</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1010,15 +1010,15 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>

@@ -830,13 +830,19 @@
     </url>
   
     <url>
+      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://loja.sequilhato.com.br/posts/aperitivos-para-todas-as-estacoes-ideias-versateis-e-deliciosas-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/cafe-colonial-descubra-a-combinacao-perfeita-com-sequilhos-prontos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/ceia-de-reveillon-comidas-para-trazer-sorte-ao-ano-novo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -854,7 +860,7 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/ceia-de-reveillon-comidas-para-trazer-sorte-ao-ano-novo</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-escolher-o-acompanhamento-perfeito-para-o-seu-evento-sequilhos-e-mais</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -866,13 +872,7 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-escolher-o-acompanhamento-perfeito-para-o-seu-evento-sequilhos-e-mais</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-preparar-um-cafe-da-manha-especial</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -884,13 +884,13 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/desvendando-o-segredo-da-ceia-de-natal-sofisticada-dicas-para-brilhar-na-mesa</loc>
+      <loc>https://loja.sequilhato.com.br/posts/como-preparar-um-cafe-da-manha-especial</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/como-harmonizar-cafe-com-sequilhos</loc>
+      <loc>https://loja.sequilhato.com.br/posts/desvendando-o-segredo-da-ceia-de-natal-sofisticada-dicas-para-brilhar-na-mesa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -938,25 +938,25 @@
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://loja.sequilhato.com.br/posts/receitas-com-sequilhos-5-sobremesas-irresistiveis</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://loja.sequilhato.com.br/posts/sequilhos-como-sobremesa-uma-opcao-refinada-para-finalizar-suas-refeicoes</loc>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-ao-redor-do-mundo</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://loja.sequilhato.com.br/posts/sequilhos-com-goiabada-2021-03-02</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://loja.sequilhato.com.br/posts/sequilhos-como-sobremesa-uma-opcao-refinada-para-finalizar-suas-refeicoes</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>

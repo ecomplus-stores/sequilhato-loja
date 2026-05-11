@@ -7,22 +7,15 @@
       "autoplay": 15000,
       "slides": [
         {
-          "start": "2026-05-04T20:53:49.469Z",
-          "end": "2026-05-11T03:00:00.000Z",
-          "img": "/img/uploads/whatsapp-image-2026-05-04-at-17.12.34.jpeg",
-          "link": "https://loja.sequilhato.com.br/search?term=dia+das+m%C3%A3es",
-          "mobile_img": "/img/uploads/whatsapp-image-2026-05-04-at-17.12.04.jpeg"
-        },
-        {
           "start": "2025-08-08T18:40:01.284Z",
-          "end": "2026-05-04T21:02:17.177Z",
+          "end": "2027-01-04T21:02:17.177Z",
           "img": "/img/uploads/pastel-de-queijo-com-goiaba-desktop-_1_.webp",
           "link": "https://loja.sequilhato.com.br/sequilhos-pastel-queijo-com-goiaba",
           "mobile_img": "/img/uploads/pastel-de-queijo-com-goiaba-mobile-_1_.webp"
         },
         {
           "start": "",
-          "end": "2026-05-04T21:02:42.033Z",
+          "end": "",
           "img": "/img/uploads/kits-de-revenda-desktop.webp",
           "link": "https://loja.sequilhato.com.br/revenda",
           "mobile_img": "/img/uploads/kits-de-revenda-mobile.webp"

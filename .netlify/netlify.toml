@@ -3,6 +3,30 @@
   functions = "functions-zip"
 
 [[redirects]]
+  from = "https://loja.sequilhato.com.br/admin/*"
+  to = "https://sequilhato-loja.netlify.app/admin/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://loja.sequilhato.com.br/*"
+  to = "https://www.sequilhato.com.br/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://lojasequilhato.com.br/*"
+  to = "https://www.sequilhato.com.br/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.lojasequilhato.com.br/*"
+  to = "https://www.sequilhato.com.br/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/.netlify/functions/ssr?slug=:splat"
   status = 200
